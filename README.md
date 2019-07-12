@@ -6,4 +6,4 @@ An app made to help bridge the gap between NGO's and any orginisation, so that t
  - Offers a fluid and resposive UI.
  - A powerful backend to handle requests.
  - An innovative and much needed idea.
- - Can be ported to iOS.
+ - Can be ported to iOS
