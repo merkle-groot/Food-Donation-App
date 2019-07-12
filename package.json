@@ -1,0 +1,31 @@
+{
+  "main": "node_modules/expo/AppEntry.js",
+  "scripts": {
+    "start": "expo start",
+    "android": "expo start --android",
+    "ios": "expo start --ios",
+    "web": "expo start --web",
+    "eject": "expo eject"
+  },
+  "dependencies": {
+    "expo": "^33.0.0",
+    "moment": "^2.24.0",
+    "native-base": "^2.12.1",
+    "react": "16.8.3",
+    "react-dom": "^16.8.6",
+    "react-native": "https://github.com/expo/react-native/archive/sdk-33.0.0.tar.gz",
+    "react-native-adaptivecards": "^0.1.25",
+    "react-native-dropdown-menu": "^2.0.0",
+    "react-native-material-cards": "^1.0.9",
+    "react-native-modal-datetime-picker": "^7.5.0",
+    "react-native-simple-radio-button": "^2.7.3",
+    "react-native-web": "^0.11.4",
+    "react-navigation": "^3.11.0"
+  },
+  "devDependencies": {
+    "babel-preset-expo": "^5.1.1",
+    "eslint": "^6.0.1",
+    "eslint-plugin-react": "^7.14.2"
+  },
+  "private": true
+}
