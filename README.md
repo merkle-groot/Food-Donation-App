@@ -1,5 +1,7 @@
 # Saha Food Donation App
-## Project Submission for IEEE ISQIP Hackathon 2019
+```
+Project Submission for IEEE ISQIP Hackathon 2019
+```
 
 ## Built with
 * React Native (Expo SDK 33)
@@ -13,4 +15,4 @@ An app made to help bridge the gap between NGO's and any organisation, so that t
  - Can be ported to iOS
 
 ## Screenshots
- ![screen1](./readme-src/2.gif) 
+ ![screen1](./readme-src/1.gif) 
